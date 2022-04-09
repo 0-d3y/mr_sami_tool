@@ -18,6 +18,7 @@ Don't forget to follow me
 <code>pkg install bash </code>
 
 <code>git clone https://github.com/mr-sami-x/mr_sami_tool.git</code>
+
 <code>cd mr_sami_tool</code>
 
 <code>chmod +x *</code>
