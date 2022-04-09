@@ -105,7 +105,7 @@ elif choose == '2':
             os.system('apt update && apt upgrade')
             os.system('pkg install git python python2 -y')
             os.system('pip install lolcat')
-            os.sytem('git clone https://github.com/h4ck3r0/Metasploit-termux')
+            os.system('git clone https://github.com/h4ck3r0/Metasploit-termux')
             print('please copy and paste :')
             print('cd Metasploit-termux')    
             print('bash metasploit.sh')
