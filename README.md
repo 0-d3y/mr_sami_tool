@@ -8,13 +8,20 @@ Don't forget to follow me
 
 # Installing
 <code>apt update && apt upgrade -y</code>
+
 <code>pkg install git python python2 nmap -y</code>
+
 <code>pip2 install requests </code>
+
 <code>pip2 install colorama </code>
+
 <code>pkg install bash </code>
+
 <code>git clone https://github.com/mr-sami-x/mr_sami_tool.git</code>
 <code>cd mr_sami_tool</code>
+
 <code>chmod +x *</code>
+
 <code>python3 MrSami.py </code><br><br>
 
 
